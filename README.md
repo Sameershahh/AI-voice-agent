@@ -68,3 +68,7 @@ The agent's behavior is governed by the `SYSTEM_PROMPT` located in `app/core/con
 - **Channel Configuration**: Mono
 - **Frame Size**: 160 bytes (20ms payload)
 - **Logging**: All session interactions and transcripts are persisted to the `logs/` directory for auditing and performance analysis.
+
+## Author
+**Sameer Shah** — AI & Full-Stack Developer  
+[Portfolio](https://sameershah-portfolio.vercel.app/) 
