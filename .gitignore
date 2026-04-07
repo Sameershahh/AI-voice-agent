@@ -1,0 +1,12 @@
+# Python specifics
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+.pytest_cache/
+
+# Project specifics
+logs/
+*.log
+.DS_Store
